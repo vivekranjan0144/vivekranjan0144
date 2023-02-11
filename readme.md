@@ -4,9 +4,6 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekranjan0144&label=Profile%20views&color=0e75b6&style=flat" alt="vivekranjan0144" /> </p>
-
-
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="code_gif" width="400"/>
 
 
